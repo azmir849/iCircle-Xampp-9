@@ -1,0 +1,742 @@
+@media (min-width: 320px) and (max-width: 479.98px){  
+/* container */
+.container {
+	width: auto;
+}
+
+/* Education */
+.resume_wrapper .resume_container .card_head {
+	display: list-item;
+	list-style: none;
+}
+
+/* navofcan */
+.offcanvas-end {
+	top: 0;
+	right: 0;
+	width: 240px;
+	border-left: 1px solid rgba(0,0,0,.2);
+	transform: translateX(100%);
+	background-color: #f4663b;
+}
+.btn-close:focus {
+	outline: 0;
+	box-shadow: 0 0 0 .25rem transparent;
+	opacity: 1;
+}
+.sideNavbarOffcan {
+	position: relative;
+}
+.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan {
+	padding: 20px 20px;
+}
+.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .navbar_listOfcan ul li {
+	padding: 10px 0 10px 10px;;
+}
+.offcanvas-body {
+	padding: 0rem 0rem;
+}
+.offcanvas-header {
+	padding: 0rem 0rem;
+}
+.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .sideOfcan .profile_info h3 {
+	font-size: 20px;
+}
+.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .sideOfcan .profile_info h4 {
+	font-size: 16px;
+	padding: 0px 0;
+}
+.offcanvas-header .btn-close {
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	z-index: 99999999999999;
+}
+.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .navbar_listOfcan ul li a {
+	font-size: 15px;
+}
+.mob_header .moble_navbar {
+	font-size: 25px;
+	padding: 8px 12px;
+}
+/* about */
+.about .header_sec h4 {
+	font-size: 28px;
+}
+.about {
+	padding: 130px 0 50px 0;
+}
+
+/* resumne */
+.resume {
+	padding: 50px 0 ;
+}
+/* language */
+.language {
+	padding-top: 50px;
+}
+/* portfolio */
+.portfolio {
+	padding: 100px 0;
+}
+/* journal */
+.journal {
+	padding-bottom: 50px;
+	padding-top: 100px;
+}
+/* reffarance */
+.reference {
+	padding-bottom: 50px;
+}
+.reference .reference_wrapper .reffer_card {
+	margin-top: 30px;
+}
+.reference {
+	padding-bottom: 90px;
+}
+/* endormous */
+.endorsements {
+	padding-bottom: 50px;
+}
+.endorsements .endorsements_wrapper .endorsements_text h4 {
+	line-height: 38px;
+}
+/* appointment */
+.appointment .appointment_wrapper {
+	padding: 40px 20px;
+}
+.appointment .appointment_wrapper .form_wrapper .form_control {
+	height: 40px;
+}
+.appointment .appointment_wrapper .form_wrapper {
+	padding-top: 15px;
+}
+.appointment .appointment_wrapper a {
+	padding: 15px 30px;
+	font-size: 16px;
+}
+.appointment {
+	margin: 0 0 80px 0;
+}
+/* contact */
+.contact {
+	padding-bottom: 20px;
+}
+
+}   
+@media (min-width: 480px) and (max-width: 575.98px){  
+	/* container */
+	.container {
+		width: auto;
+	}
+	
+	/* Education */
+	.resume_wrapper .resume_container .card_head {
+		display: list-item;
+		list-style: none;
+	}
+	
+	/* navofcan */
+	.offcanvas-end {
+		top: 0;
+		right: 0;
+		width: 330px;
+		border-left: 1px solid rgba(0,0,0,.2);
+		transform: translateX(100%);
+		background-color: #f4663b;
+	}
+	.btn-close:focus {
+		outline: 0;
+		box-shadow: 0 0 0 .25rem transparent;
+		opacity: 1;
+	}
+	.sideNavbarOffcan {
+		position: relative;
+	}
+	.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan {
+		padding: 20px 20px;
+	}
+	.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .navbar_listOfcan ul li {
+		padding: 10px 0 10px 10px;;
+	}
+	.offcanvas-body {
+		padding: 0rem 0rem;
+	}
+	.offcanvas-header {
+		padding: 0rem 0rem;
+	}
+	.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .sideOfcan .profile_info h3 {
+		font-size: 20px;
+	}
+	.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .sideOfcan .profile_info h4 {
+		font-size: 16px;
+		padding: 0px 0;
+	}
+	.offcanvas-header .btn-close {
+		position: absolute;
+		right: 20px;
+		top: 20px;
+		z-index: 99999999999999;
+	}
+	.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .navbar_listOfcan ul li a {
+		font-size: 16px;
+	}
+	.mob_header .moble_navbar {
+		font-size: 25px;
+		padding: 8px 12px;
+	}
+	/* about */
+	.about .header_sec h4 {
+		font-size: 28px;
+	}
+	.about {
+		padding: 130px 0 50px 0;
+	}
+	
+	/* resumne */
+	.resume {
+		padding: 50px 0 ;
+	}
+	/* language */
+	.language {
+		padding-top: 50px;
+	}
+	/* portfolio */
+	.portfolio {
+		padding: 100px 0;
+	}
+	/* journal */
+	.journal {
+		padding-bottom: 50px;
+		padding-top: 100px;
+	}
+	/* reffarance */
+	.reference {
+		padding-bottom: 50px;
+	}
+	.reference .reference_wrapper .reffer_card {
+		margin-top: 30px;
+	}
+	.reference {
+		padding-bottom: 90px;
+	}
+	/* endormous */
+	.endorsements {
+		padding-bottom: 50px;
+	}
+	.endorsements .endorsements_wrapper .endorsements_text h4 {
+		line-height: 38px;
+	}
+	/* appointment */
+	.appointment .appointment_wrapper {
+		padding: 40px 20px;
+	}
+	.appointment .appointment_wrapper .form_wrapper .form_control {
+		height: 40px;
+	}
+	.appointment .appointment_wrapper .form_wrapper {
+		padding-top: 15px;
+	}
+	.appointment .appointment_wrapper a {
+		padding: 15px 30px;
+		font-size: 16px;
+	}
+	.appointment {
+		margin: 0 0 80px 0;
+	}
+	/* contact */
+	.contact {
+		padding-bottom: 20px;
+	}
+	
+	}  
+@media (min-width: 576px) and (max-width: 767.98px){  
+		/* container */
+		.container {
+			width: auto;
+		}
+		
+		/* Education */
+		.resume_wrapper .resume_container .card_head {
+			display: list-item;
+			list-style: none;
+		}
+		
+		/* navofcan */
+		.offcanvas-end {
+			top: 0;
+			right: 0;
+			width: 330px;
+			border-left: 1px solid rgba(0,0,0,.2);
+			transform: translateX(100%);
+			background-color: #f4663b;
+		}
+		.btn-close:focus {
+			outline: 0;
+			box-shadow: 0 0 0 .25rem transparent;
+			opacity: 1;
+		}
+		.sideNavbarOffcan {
+			position: relative;
+		}
+		.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan {
+			padding: 20px 20px;
+		}
+		.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .navbar_listOfcan ul li {
+			padding: 10px 0 10px 10px;;
+		}
+		.offcanvas-body {
+			padding: 0rem 0rem;
+		}
+		.offcanvas-header {
+			padding: 0rem 0rem;
+		}
+		.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .sideOfcan .profile_info h3 {
+			font-size: 20px;
+		}
+		.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .sideOfcan .profile_info h4 {
+			font-size: 16px;
+			padding: 0px 0;
+		}
+		.offcanvas-header .btn-close {
+			position: absolute;
+			right: 20px;
+			top: 20px;
+			z-index: 99999999999999;
+		}
+		.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .navbar_listOfcan ul li a {
+			font-size: 16px;
+		}
+		.mob_header .moble_navbar {
+			font-size: 25px;
+			padding: 8px 12px;
+		}
+		/* about */
+		.about .header_sec h4 {
+			font-size: 28px;
+		}
+		.about {
+			padding: 130px 0 50px 0;
+		}
+		
+		/* resumne */
+		.resume {
+			padding: 50px 0 ;
+		}
+		/* language */
+		.language {
+			padding-top: 50px;
+		}
+		.language .cercle_title {
+			padding-top: 20px;
+			padding-bottom: 30px;
+		}
+		/* portfolio */
+		.portfolio {
+			padding: 100px 0;
+		}
+		/* journal */
+		.journal {
+			padding-bottom: 50px;
+			padding-top: 100px;
+		}
+		/* reffarance */
+		.reference {
+			padding-bottom: 50px;
+		}
+		.reference .reference_wrapper .reffer_card {
+			margin-top: 30px;
+		}
+		.reference {
+			padding-bottom: 90px;
+		}
+		/* endormous */
+		.endorsements {
+			padding-bottom: 50px;
+		}
+		.endorsements .endorsements_wrapper .endorsements_text h4 {
+			line-height: 38px;
+		}
+		/* appointment */
+		.appointment .appointment_wrapper {
+			padding: 40px 20px;
+		}
+		.appointment .appointment_wrapper .form_wrapper .form_control {
+			height: 40px;
+		}
+		.appointment .appointment_wrapper .form_wrapper {
+			padding-top: 20px;
+		}
+		.appointment .appointment_wrapper a {
+			padding: 15px 30px;
+			font-size: 16px;
+		}
+		.appointment {
+			margin: 0 0 80px 0;
+		}
+		/* contact */
+		.contact {
+			padding-bottom: 20px;
+		}
+		
+		} 
+@media (min-width: 768px) and (max-width: 991.98px){  
+			/* container */
+			.container {
+				width: auto;
+			}
+			
+			/* Education */
+			.resume_wrapper .resume_container .card_head {
+				display: list-item;
+				list-style: none;
+			}
+			
+			/* navofcan */
+			.offcanvas-end {
+				border-left: 1px solid rgba(0,0,0,.2);
+				transform: translateX(100%);
+				background-color: #f4663b;
+			}
+			.btn-close:focus {
+				outline: 0;
+				box-shadow: 0 0 0 .25rem transparent;
+				opacity: 1;
+			}
+			.sideNavbarOffcan {
+				position: relative;
+			}
+			.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan {
+				padding: 20px 20px;
+			}
+			.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .navbar_listOfcan ul li {
+				padding: 10px 0 10px 10px;;
+			}
+			.offcanvas-body {
+				padding: 0rem 0rem;
+			}
+			.offcanvas-header {
+				padding: 0rem 0rem;
+			}
+			.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .sideOfcan .profile_info h3 {
+				font-size: 20px;
+			}
+			.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .sideOfcan .profile_info h4 {
+				font-size: 16px;
+				padding: 0px 0;
+			}
+			.offcanvas-header .btn-close {
+				position: absolute;
+				right: 20px;
+				top: 20px;
+				z-index: 99999999999999;
+			}
+			.mob_header .moble_navbar {
+				font-size: 25px;
+				padding: 8px 12px;
+			}
+			/* about */
+			.about .header_sec h4 {
+				font-size: 28px;
+			}
+			.about {
+				padding: 130px 0 50px 0;
+			}
+			
+			/* resumne */
+			.resume {
+				padding: 50px 0 ;
+			}
+			/* language */
+			.language {
+				padding-top: 50px;
+			}
+			.language .cercle_title {
+				padding-top: 20px;
+				padding-bottom: 30px;
+			}
+			/* portfolio */
+			.portfolio {
+				padding: 100px 0;
+			}
+			/* journal */
+			.journal {
+				padding-bottom: 50px;
+				padding-top: 100px;
+			}
+			/* reffarance */
+			.reference {
+				padding-bottom: 50px;
+			}
+			.reference .reference_wrapper .reffer_card {
+				margin-top: 30px;
+			}
+			.reference {
+				padding-bottom: 90px;
+			}
+			/* endormous */
+			.endorsements {
+				padding-bottom: 50px;
+			}
+			.endorsements .endorsements_wrapper .endorsements_text h4 {
+				line-height: 38px;
+			}
+			/* appointment */
+			.appointment .appointment_wrapper {
+				padding: 40px 20px;
+			}
+			.appointment .appointment_wrapper .form_wrapper .form_control {
+				height: 40px;
+			}
+			.appointment .appointment_wrapper .form_wrapper {
+				padding-top: 20px;
+			}
+			.appointment .appointment_wrapper a {
+				padding: 15px 30px;
+				font-size: 16px;
+			}
+			.appointment {
+				margin: 0 0 80px 0;
+			}
+			/* contact */
+			.contact {
+				padding-bottom: 20px;
+			}
+			
+} 
+@media (min-width: 992px) and (max-width: 1199.98px){  
+	/* container */
+	.container {
+		width: 650px; 
+	}
+	/* side nav */
+	.sideNavbar .sideContent .side .profile_img img {
+		display: none;
+	}
+	.sideNavbar {
+		width: 185px;
+		left: -10px;
+	}
+	.sideNavbar .sideContent {
+		padding: 4px 10px;
+	}
+	.side {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+	.sideNavbar .sideContent .side .profile_info h3 {
+		font-size: 22px;
+	}
+	.sideNavbar .sideContent .side .profile_img img {
+		width: 100px;
+	}
+	.sideNavbar .sideContent .navbar_list ul li a {
+		font-size: 14px;
+	}
+	.sideNavbar .sideContent .navbar_list ul li {
+		padding: 8px 0 8px 10px;
+	}
+	/* Education */
+	
+	/* navofcan */
+	.sideNavbarOffcan {
+		position: relative;
+	}
+	.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan {
+		padding: 20px 20px;
+	}
+	.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .navbar_listOfcan ul li {
+		padding: 10px 0 10px 10px;;
+	}
+	.offcanvas-body {
+		padding: 0rem 0rem;
+	}
+	.offcanvas-header {
+		padding: 0rem 0rem;
+	}
+	.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .sideOfcan .profile_info h3 {
+		font-size: 20px;
+	}
+	.navbar_toggoler .offcanvas .offcanvas-body .sideNavbarOffcan .sideContentOfcan .sideOfcan .profile_info h4 {
+		font-size: 16px;
+		padding: 0px 0;
+	}
+	.offcanvas-header .btn-close {
+		position: absolute;
+		right: 20px;
+		top: 20px;
+		z-index: 99999999999999;
+	}
+	.mob_header .moble_navbar {
+		font-size: 25px;
+		padding: 8px 12px;
+	}
+	/* about */
+	.about .header_sec h4 {
+		font-size: 28px;
+	}
+	.about {
+		padding: 130px 0 50px 0;
+	}
+	
+	/* resumne */
+	.resume {
+		padding: 50px 0 ;
+	}
+	/* language */
+	.language {
+		padding-top: 50px;
+	}
+	.language .cercle_title {
+		padding-top: 20px;
+		padding-bottom: 30px;
+	}
+	/* portfolio */
+	.portfolio {
+		padding: 100px 0;
+	}
+	/* journal */
+	.journal {
+		padding-bottom: 50px;
+		padding-top: 100px;
+	}
+	/* reffarance */
+	.reference {
+		padding-bottom: 50px;
+	}
+	.reference .reference_wrapper .reffer_card {
+		margin-top: 30px;
+	}
+	.reference {
+		padding-bottom: 90px;
+	}
+	/* endormous */
+	.endorsements {
+		padding-bottom: 50px;
+	}
+	.endorsements .endorsements_wrapper .endorsements_text h4 {
+		line-height: 38px;
+	}
+	/* appointment */
+	.appointment .appointment_wrapper {
+		padding: 40px 20px;
+	}
+	.appointment .appointment_wrapper .form_wrapper .form_control {
+		height: 40px;
+	}
+	.appointment .appointment_wrapper .form_wrapper {
+		padding-top: 20px;
+	}
+	.appointment .appointment_wrapper a {
+		padding: 15px 30px;
+		font-size: 16px;
+	}
+	.appointment {
+		margin: 0 0 80px 0;
+	}
+	/* contact */
+	.contact {
+		padding-bottom: 20px;
+	}
+	
+} 
+@media (min-width: 1200px) and (max-width: 1399.98px){  
+	/* container */
+	.container {
+		width: 700px; 
+	}
+	/* side nav */
+	.sideNavbar .sideContent .side .profile_img img {
+		width: 100px;
+		display: none;
+	}
+.sideNavbar {
+		width: 280px;
+	}
+	.side {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	.sideNavbar .sideContent .side .profile_info h3 {
+		font-size: 22px;
+	}
+	.sideNavbar .sideContent .side .profile_img img {
+		width: 100px;
+	}
+	.sideNavbar .sideContent .navbar_list ul li a {
+		font-size: 15px;
+	}
+	.sideNavbar .sideContent .navbar_list ul li {
+		padding: 8px 0 8px 10px;
+	}
+	/* Education */
+
+	
+} 
+@media (min-width: 1400px) and (max-width: 1499.98px){  
+	/* container */
+     .container{
+		 width: 800px;
+	 }
+	/* side nav */
+	.sideNavbar .sideContent .side .profile_img img {
+		width: 100px;
+		display: none;
+	}
+.sideNavbar {
+		width: 280px;
+	}
+	.side {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	.sideNavbar .sideContent .side .profile_info h3 {
+		font-size: 22px;
+	}
+	.sideNavbar .sideContent .side .profile_img img {
+		width: 100px;
+	}
+	.sideNavbar .sideContent .navbar_list ul li a {
+		font-size: 15px;
+	}
+	.sideNavbar .sideContent .navbar_list ul li {
+		padding: 8px 0 8px 10px;
+	}
+	/* Education */
+
+	
+} 
+	
+@media (min-width: 1500px) and (max-width: 1699.98px){  
+	/* container */
+     .container{
+		 width: 800px;
+	 }
+	/* side nav */
+	.sideNavbar .sideContent .side .profile_img img {
+		width: 100px;
+	}
+	.side {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+	.sideNavbar .sideContent .side .profile_info h3 {
+		font-size: 22px;
+	}
+	.sideNavbar .sideContent .side .profile_img img {
+		width: 100px;
+	}
+	.sideNavbar .sideContent .navbar_list ul li a {
+		font-size: 15px;
+	}
+	.sideNavbar .sideContent .navbar_list ul li {
+		padding: 8px 0 8px 10px;
+	}
+	/* Education */
+
+	
+} 

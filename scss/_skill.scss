@@ -1,0 +1,82 @@
+.skill{
+    padding: 50px 0;
+    .skill_wrapper{
+        .skill_content{
+            span{
+                color: $primaryColor;
+                font-size: 24px;
+                font-weight: 600;
+                text-transform: uppercase;
+            }
+
+               .progress_wrapeer{
+                   display: flex;
+                   justify-content: space-between;
+                   align-items: center;
+                   padding: 23px 0 20px 0;
+                   h6{
+                       display: inline-block;
+                       font-size: 20px;
+                       font-weight: 600;
+                       color: $black;
+                   }
+                   a{
+                    display: inline-block;
+                    font-size: 16px;
+                    font-weight: 600;
+                    color: $primaryColor;
+                }
+               }
+               .progress {
+                background: #e7eeee;
+                justify-content: flex-start;
+                border-radius: 100px;
+                align-items: center;
+                position: relative;
+                padding: 0 2px;
+                display: flex;
+                height: 17px;
+                width: 100%;
+                position: relative;
+
+                .progress-value {
+                    animation: load 3s normal forwards;
+                    box-shadow: 0 10px 40px -10px #fff;
+                    border-radius: 100px;
+                    background: $primaryColor;
+                    height: 15px;
+                    width: 0;
+                  }
+                  .value_2{
+                    animation: load2 3s normal forwards;
+                    -webkit-animation: load2 3s normal forwards;
+}
+                  .value_3{
+                    animation: load3 3s normal forwards;
+                    -webkit-animation: load3 3s normal forwards;
+}
+                .value_4{
+                    animation: load4 3s normal forwards;
+                    -webkit-animation: load4 3s normal forwards; 
+}
+              }
+        }
+    }
+}
+
+@keyframes load{
+    0% { width: 0; }
+    100% { width: 90%; }
+  }
+  @keyframes load2{
+    0% { width: 0; }
+    100% { width: 95%; }
+  }
+  @keyframes load3{
+    0% { width: 0; } 
+    100% { width: 85%; }
+  }
+  @keyframes load4{
+    0% { width: 0; }
+    100% { width: 80%; }
+  }

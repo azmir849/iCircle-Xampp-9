@@ -1,0 +1,74 @@
+.sideNavbar{
+    width: 350px;
+    background-color: $primaryColor;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0; 
+    z-index: 999999;
+    .sideContent{
+        padding: 20px 20px;
+          .side{
+            .profile_img{
+                text-align: center;
+                  img{
+                      width: 150px;
+                      margin: 0 auto;
+                  }
+            }
+            .profile_info{
+                padding: 20px 0;
+                text-align: center;
+                h3{
+                    font-size: 28px;
+                    color: $white;
+                    font-weight: 500;
+                }
+                h4{
+                  font-size: 18px;
+                  color: $black;
+                  font-weight: 500;
+                  padding: 5px 0;
+              }
+              .icons{
+                  ul{
+                      li{
+                          display: inline-block;
+                          padding: 0 8px;
+                          a{
+                              i{
+                                  font-size: 22px;
+                                  color: $white;
+                                  &:hover{
+                                      color: $black;
+                                  }
+  
+                              }
+                          }
+                      }
+                  }
+              }
+            }
+          }
+          .navbar_list{
+              ul{
+                  li{
+                      padding: 10px 0 10px 50px;
+                      border-bottom: 1px solid rgb(198, 195, 195);
+                      a{
+                          color: $white;
+                          font-weight: 400;
+                          font-size: 17px;
+                          &:hover{
+                              color: $white;
+                              padding-left: 20px;
+                          }
+                          span{
+                              padding-right: 10px;
+                          }
+                      }
+                  }
+              }
+          }
+    }
+}

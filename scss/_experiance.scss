@@ -1,0 +1,37 @@
+.experience{
+    padding: 0 0 50px 0;
+    .header_sec{
+        h4{
+          font-size: 35px;
+          font-weight: 700;
+          text-transform: uppercase;
+          color: $primaryColor;
+          letter-spacing: 1px;
+        }
+    }
+    .experience_wrapper{
+             padding-top: 20px;
+          .experience_wrap{
+              border-bottom: 1px solid #aeacac; 
+              padding: 20px 0;
+              h4{
+                font-size:  24px;
+                font-weight: 400;
+                color: $black; 
+              }
+              h5{
+                font-size:   18px;
+                font-weight: 400;
+                color: $black; 
+              }
+              p{
+                font-size:  16px;
+                font-weight: 400;
+                color: $text; 
+                line-height: 26px;
+                padding-top: 20px;
+                font-family: $font1;
+              }
+          }
+    }
+}
